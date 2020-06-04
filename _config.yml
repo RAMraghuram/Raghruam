@@ -75,4 +75,4 @@ kramdown:
   syntax_highlighter: rouge
 
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-architect
