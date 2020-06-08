@@ -5,14 +5,20 @@
   website: https://ramraghuram.github.io/Raghruam/
   email: ram309591@gmail.com
 
-# - last_name: Donate
-#   first_name: Jalpc
-#   desc: Support Jalpc
-#   website: http://www.jarrekk.com/donate/
-#   email: me@jarrekk.com
+- last_name: Dailey 
+  first_name: Dr. Matthew N
+  desc: Professor, Asian Institute of Technology, Thailand
+  website: https://set.ait.ac.th/faculty/matthew-n-dailey/
+  email: mdailey@ait.asia
 
-# - last_name: LN
-#   first_name: FN
-#   desc: COO
-#   website: https://github.com
-#   email: coo@google.com
+- last_name: Dr.
+  first_name: Attaphongse Taparugssanagorn
+  desc: Telecommunications; Information and Communications Technologies
+  website: 
+  email: attaphongset[at]ait.asia
+
+- last_name: Dr. 
+  first_name: Mongkol Ekpanyapong
+  desc: Microelectronics and Embedded Systems
+  website:
+  email: mongkol[at]ait.ac.th
